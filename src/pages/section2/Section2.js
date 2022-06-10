@@ -36,7 +36,7 @@ const Section2 = () => {
             <h1>login</h1>
             <input type="text" name="email" onChange={(e) => inputChange(e)} />
             <input type="password" name="password" onChange={(e) => inputChange(e)} />
-            <button onClick={submit}>Submit</button>
+            <button onClick={submit}>Submit okay</button>
         </div>
     )
 
